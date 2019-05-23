@@ -3,6 +3,7 @@
 CatGames官网：http://CatGames.cn
 CatGames社区：https://BBS.CatGames.cn
 交流群：773416122
+
 拥有一键自动化攻击
 一键设置永恒之蓝
 一键设置漏洞扫描
