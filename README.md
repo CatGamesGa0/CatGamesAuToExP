@@ -1,8 +1,6 @@
 # CatGamesAuToExP
 自动化攻击脚本
-CatGames官网：http://CatGames.cn
-
-CatGames社区：https://BBS.CatGames.cn
+Blog:https://Blog.CatGames.cn
 
 微博：https://www.weibo.com/PengshiKeji666
 
