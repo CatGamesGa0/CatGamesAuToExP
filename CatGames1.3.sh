@@ -255,14 +255,13 @@ CatGames_CVE2019-0708_Download(){
 	mkdir /usr/share/metasploit-framework/modules/exploits/windows/rdp
 	chmod -x /usr/share/metasploit-framework/modules/exploits/windows/rdp
 	wget -P /root https://Blog.CatGAmes.cn/CVE2019-0708/rdp.rb
-	cp rdp.rb /usr/share/metasploit-framework/lib/msf/core/exploit/
+	cp /root/rdp.rb /usr/share/metasploit-framework/lib/msf/core/exploit/
 	wget -P /root https://Blog.CatGAmes.cn/CVE2019-0708/rdp_scanner.rb
-	cp rdp_scanner.rb /usr/share/metasploit-framework/modules/auxiliary/scanner/
+	cp /root/rdp_scanner.rb /usr/share/metasploit-framework/modules/auxiliary/scanner/
 	wget -P /root https://Blog.CatGAmes.cn/CVE2019-0708/cve_2019_0708_bluekeep_rce.rb
-	mkdir /usr/share/metasploit-framework/modules/exploits/windows/rdp
-	cp cve_2019_0708_bluekeep_rce.rb /usr/share/metasploit-framework/modules/exploits/windows/rdp/	
+	cp /root/cve_2019_0708_bluekeep_rce.rb /usr/share/metasploit-framework/modules/exploits/windows/rdp/	
 	wget -P /root https://Blog.CatGAmes.cn/CVE2019-0708/cve_2019_0708_bluekeep.rb
-	cp cve_2019_0708_bluekeep.rb /usr/share/metasploit-framework/modules/auxiliary/scanner/rdp/
+	cp /root/cve_2019_0708_bluekeep.rb /usr/share/metasploit-framework/modules/auxiliary/scanner/rdp/
 	echo "rdp.rb,rdp_scanner.rb,cve_2019_0708_bluekeep_rce.rb,cve_2019_0708_bluekeep.rb 下载成功 并已拷贝到指定目录"
 	msfconsole -x "reload_all;exit"
 	echo -e "已重新加载所有模块 ：） 祝您好运"
