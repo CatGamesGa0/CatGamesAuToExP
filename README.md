@@ -1,21 +1,38 @@
-# CatGamesAuToExP
-自动化攻击脚本
+# install CatGamesAuToExP
+Note: all tutorial operations are carried out on Kali Linux system. Please use it on Kali Linux to avoid errors
+
+# 1.git clone https://github.com/CatGamesGa0/CatGamesAuToExP.git
+![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/Git Clone.png)
+
+# 2.cd CatGamesAuToExP/
+![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/cd CatGamesAuToExP.png)
+
+# 3.chmod 777 install.sh
+![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/chmod777 install.sh.png)
+
+# 4.dos2unix install.sh
+![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/dos2unix install.sh.png)
+
+# 5../install.sh
+![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/install.sh.png)
+
+# 6.Enter Catgameexp directly in the terminal or Cat and press tab，Please pay attention to case
+![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/C.png)
+
+# Start UI
+![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/run.png)
+
+#English version
+![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/engrun.png)
+![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/engui.png)
+
+# 简体中文
+![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/cn.run.png)
+![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/cn.run2.png)
+
 Blog:https://Blog.CatGames.cn
+WeiBo：https://www.weibo.com/6366916957
 
-微博：https://www.weibo.com/PengshiKeji666
-
-交流群：773416122
-
-拥有一键自动化攻击
-一键设置永恒之蓝
-一键设置漏洞扫描
-一键设置监听
-一键设置Payload
-一键Nmap扫描等......
 
 演示视频：https://www.youtube.com/watch?v=Ii4mQrLxQO4
 B站：https://www.bilibili.com/video/av53410445
-
-ps:如果出现提示未预期符号 '$'{\r''附近有语法错误 请使用dos2unix CatGamesAuToExP.sh 转换一下即可
-![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/微信截图_20191114110138.png)
-![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/TIM截图20191114110153.png)
