@@ -1,10 +1,10 @@
-# install CatGamesAuToExP
+# install UzJuAuToExP
 Note: all tutorial operations are carried out on Kali Linux system. Please use it on Kali Linux to avoid errors
 
-# 1.git clone https://github.com/CatGamesGa0/CatGamesAuToExP.git
+# 1.git clone https://github.com/UzJu/UzJuAuToExP.git
 ![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/Clone.png)
 
-# 2.cd CatGamesAuToExP/
+# 2.cd UzJuAuToExP/
 ![image](https://github.com/CatGamesGa0/CatGamesAuToExP/blob/master/images/CatGamesAuToExP.png)
 
 # 3.chmod 777 install.sh
