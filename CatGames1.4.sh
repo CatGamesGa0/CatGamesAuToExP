@@ -35,7 +35,7 @@ CatGames_Chinese(){
 Initialization_Tools(){
   echo -e "\033]0;CatGames Auto Attack EXP\007"
 	clear
-	echo -e "\033[32mCatGames自动攻击工具初始化中......"
+	echo -e "\033[32mUzJu自动攻击工具初始化中......"
 	b=''
 	for ((i=0;$i<=100;i+=2))
 	do
@@ -55,7 +55,7 @@ CatGames_LoGo(){
 | |___   / /  | |   | |   | |_| |  / /  | |  / /       | | | |___   ___| |
 \_____| /_/   |_|   |_|   \_____/ /_/   |_| /_/        |_| |_____| /_____/
         "
-echo -e "By_CatGamesGa0       CatGames.cn Email：GaoCatGames@mail.sdu.edu.cn"
+echo -e "By_UzJu       CatGames.cn Email：UzJuer@163.com"
 echo -e "My Blog:Blog.CatGames.cn"
 time3=$(date "+%Y-%m-%d %H:%M:%S")
 echo "当前时间：$time3"
